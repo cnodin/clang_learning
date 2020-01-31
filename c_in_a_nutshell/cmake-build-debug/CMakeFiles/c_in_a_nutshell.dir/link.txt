@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/c_in_a_nutshell.dir/ch01/main.c.o CMakeFiles/c_in_a_nutshell.dir/ch02/limits.c.o  -o c_in_a_nutshell 

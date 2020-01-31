@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/mydemo.dir/main.cpp.o CMakeFiles/mydemo.dir/main1.cpp.o CMakeFiles/mydemo.dir/calc.cpp.o CMakeFiles/mydemo.dir/complement.cpp.o  -o mydemo 
